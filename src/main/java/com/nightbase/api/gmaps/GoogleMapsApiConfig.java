@@ -10,7 +10,7 @@ public class GoogleMapsApiConfig {
     public GeoApiContext geoApiContext() {
 
         return new GeoApiContext.Builder()
-                .apiKey("AIzaSyAgbnHVRdZjHNJ1x45hznqClw1Lb_Y55rE")
+                .apiKey(**REDACTED**)
                 .build();
     }
 }
